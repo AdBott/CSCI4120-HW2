@@ -12,3 +12,4 @@ Python,
 Numpy,
 Scikit-Learn
 
+The K that works best 4 with best accuracy of 0.50
